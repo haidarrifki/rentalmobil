@@ -1,0 +1,10 @@
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\bin\rental.dll.config
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\bin\rental.dll
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\bin\rental.pdb
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\bin\rental.xml
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.Resources.resources
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.vbproj.GenerateResource.Cache
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.dll
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.xml
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.pdb
+D:\KULIAH\SMT 4\Pemrograman Web 2 (Pak Teguh)\rental\rental\obj\Debug\rental.vbprojResolveAssemblyReference.cache

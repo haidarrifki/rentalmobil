@@ -1,0 +1,1 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="delSupir.aspx.vb" Inherits="rental.delSupir" %>
